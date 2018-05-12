@@ -1,0 +1,35 @@
+_repo: Hours-in-a-LibraryNew-Edition-with-Additions.-Vol.-II--of-3-_30336
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stephen, Leslie
+    alias: Stephen, Sir Leslie
+    birthdate: 1832
+    deathdate: 1904
+    gutenberg_agent_id: '3802'
+    url: http://www.gutenberg.org/2009/agents/3802
+    wikipedia: http://en.wikipedia.org/wiki/Leslie_Stephen
+description: Sir Leslie Stephen was a distinguished literary and social critic. The
+  third of four wide-ranging volumes on books, writers, and history, this 1907 edition
+  includes the essays Charlotte Bront&#235;, Charles Kingsley, Godwin and Shelley,
+  Macaulay, Landor's Imaginary Conversations, The First Edinburgh Reviewers, Cowper
+  and Rousseau, Wordsworth's Ethics, and Fielding's Novels.
+gutenberg_issued: '2009-10-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English literature -- History and criticism'
+tableOfContents: Dr. Johnson's writings -- Crabbe -- William Hazlitt -- Disraeli's
+  novels -- Massinger -- Fielding's novels -- Cowper and Rousseau -- The first Edinburgh
+  reviewers -- Wordsworth's ethics -- Landor's imaginary conversations -- Macaulay.
+title: "Hours in a Library, Volume 2 (of 3)\r\nNew Edition, with Additions."
+url: http://www.gutenberg.org/ebooks/30336
